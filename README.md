@@ -1,2 +1,2 @@
-# test-repo
-CodeBerry test repo
+# simple quote page
+simple quote page
